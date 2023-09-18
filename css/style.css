@@ -1,0 +1,56 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #2E2F42;
+    background-color: #FFFFFF;
+}
+
+.section-1 {
+    background-color: #2E2F42;
+    width: 1140px;
+    height: 600px;
+    color: #FFFFFF;
+}
+
+.title-1 {
+    font-weight: bold;
+    font-size: 56px;
+    letter-spacing: 2px;
+    line-height: 60px;
+    text-align: center;
+}
+
+.title-2 {
+    font-weight: bold;
+    font-size: 36px;
+    letter-spacing: 2px;
+}
+
+.title-3 {
+    font-weight: medium;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+
+button {
+    background-color: #4D5AE5;
+    font-weight: medium;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 4%;
+    width: 169px;    
+    height: 56px;
+}
+
+button:hover {
+    background-color: #404BBF;
+    font-weight: medium;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 4%;
+}
+
